@@ -12,4 +12,5 @@ The Car Price Prediction System is a machine learning project designed to predic
 <b>Prediction:</b>  Predicts car price based on features such as brand name, year, fuel type, etc.</br>
 <b>Data Visualization:</b>  Visualizations that show the relationship between various car attributes and the car price.</br>
 <b>Model Accuracy:</b>  The model uses a Random Forest Regressor to predict the car price with good accuracy.</br>
+<h3>Conclusion</h3>
 The Car Price Prediction System is a powerful tool that provides a reliable prediction of used car prices based on various attributes. By using machine learning (Random Forest Regressor), the system ensures high accuracy, and the easy-to-use Tkinter interface allows users to make predictions effortlessly. The integration of visualizations also helps to better understand the data and the model’s behavior.
