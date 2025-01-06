@@ -1,6 +1,6 @@
 <b><h2>INTRODUCTION</h2></b>
 The Car Price Prediction System is a machine learning project designed to predict the price of used cars based on various attributes such as the car's brand, model year, fuel type, and more. The system is built with a simple user interface using Tkinter, and the backend for price prediction is powered by a Random Forest Regressor model. This model is trained using a dataset containing car details such as mileage, power, engine capacity, and more.
-<b><h3>Technologies used in this project are:</h3></b> </br>
+<h3><b>Technologies used in this project are:</b></h3> </br>
 <b>Python:</b> Programming language used for the development of the system.</br>
 <b>Jupyter Notebook:</b>  Used for data analysis, model training, and experimentation.</br>
 <b>Tkinter: </b> Python library for creating the graphical user interface (GUI).</br>
