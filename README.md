@@ -7,7 +7,7 @@ The Car Price Prediction System is a machine learning project designed to predic
 <b>Pandas:</b>  For data manipulation and preprocessing.</br>
 <b>Matplotlib:</b>  For data visualizations.</br>
 <b>Scikit-learn: </b> For building and training the Random Forest Regressor model.</br>
-<h3><b>Features of this project are:</b></h3>h3> </br>
+<h3><b>Features of this project are:</b></h3> </br>
 <b>User Interface: </b> Built using Tkinter for easy and interactive user input.</br>
 <b>Prediction:</b>  Predicts car price based on features such as brand name, year, fuel type, etc.</br>
 <b>Data Visualization:</b>  Visualizations that show the relationship between various car attributes and the car price.</br>
